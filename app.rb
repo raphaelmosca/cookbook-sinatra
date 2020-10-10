@@ -10,3 +10,10 @@ end
 get '/' do
   'Hello world!'
 end
+get '/' do  # <- Router part
+
+  # [...]   #
+  # [...]   # <- Controller part
+  # [...]   #
+
+end
